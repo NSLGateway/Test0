@@ -1,0 +1,120 @@
+--batch
+Content-Type: multipart/mixed; boundary=changeset
+
+--changeset
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+PUT ApplicantSet('5000000011') HTTP/1.1
+Content-Type: application/atom+xml
+Content-Length: 3892
+
+
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+ <atom:content type="application/xml">
+   <m:properties
+ xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+ xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+
+
+  <d:BPID>5000000011</d:BPID>
+  <d:Name>Candy Man</d:Name>
+  <d:SupervisorName>Danaus Tsai</d:SupervisorName>
+  <d:Gender>1</d:Gender>
+  <d:TaxID>A245893680</d:TaxID>
+  <d:Birthday>19910730</d:Birthday>
+  <d:DisadvantagGroup/>
+  <d:ProfessionalTestSubject/>
+  <d:ProfessionalTestRegion/>
+  <d:ProfessionalTestDate/>
+  <d:ProfessionalTestAmount>0.00</d:ProfessionalTestAmount>
+  <d:ProfessionalTestHandlingFee>0.00</d:ProfessionalTestHandlingFee>
+  <d:ProfessionalTestDiscount>0.00</d:ProfessionalTestDiscount>
+  <d:CommonTestSubject/>
+  <d:CommonTestRegion/>
+  <d:CommonTestDate/>
+  <d:CommonTestAmount>0.00</d:CommonTestAmount>
+  <d:CommonTestHandlingFee>0.00</d:CommonTestHandlingFee>
+  <d:CommonTestDiscount>0.00</d:CommonTestDiscount>
+  <d:InvestmentTestSubject/>
+  <d:InvestmentTestGroup/>
+  <d:InvestmentTestRegion/>
+  <d:InvestmentTestDate/>
+  <d:InvestmentTestAmount>0.00</d:InvestmentTestAmount>
+  <d:InvestmentTestHandlingFee>0.00</d:InvestmentTestHandlingFee>
+  <d:InvestmentTestDiscount>0.00</d:InvestmentTestDiscount>
+  <d:ForeignCurrencyTestSubject/>
+  <d:ForeignCurrencyTestRegion/>
+  <d:ForeignCurrencyTestDate/>
+  <d:ForeignCurrencyTestAmount>0.00</d:ForeignCurrencyTestAmount>
+  <d:ForeignCurrencyTestHandlingFee>0.00</d:ForeignCurrencyTestHandlingFee>
+  <d:ForeignCurrencyTestDiscount>0.00</d:ForeignCurrencyTestDiscount>
+  <d:VirtualAccount/>
+  <d:RefundBankCode>013</d:RefundBankCode>
+  <d:RefundBankAccount>7412589</d:RefundBankAccount>
+  <d:RefundBankBranchCode>0121</d:RefundBankBranchCode>
+  <d:ImportBankCode>011</d:ImportBankCode>
+  <d:ImportBankAccount>0000000001</d:ImportBankAccount>
+  <d:ImportBankBranchCode>0037</d:ImportBankBranchCode>
+  <d:CommonLicenseNo>010739510404173</d:CommonLicenseNo>
+  <d:CommonLicenseAmount>0.00</d:CommonLicenseAmount>
+  <d:ProfessionalLicenseNo>0107307288</d:ProfessionalLicenseNo>
+  <d:ProfessionalLicenseAmount>0.00</d:ProfessionalLicenseAmount>
+  <d:InvestmentLicenseNo/>
+  <d:InvestmentLicenseAmount>0.00</d:InvestmentLicenseAmount>
+  <d:ForeignCurrencyLicenseNo/>
+  <d:ForeignCurrencyLicenseAmount>0.00</d:ForeignCurrencyLicenseAmount>
+  <d:RegistrationZipCode>630</d:RegistrationZipCode>
+  <d:RegistrationCity>彰化縣</d:RegistrationCity>
+  <d:RegistrationDistrict>斗南鎮</d:RegistrationDistrict>
+  <d:RegistrationAddress>天道路３號</d:RegistrationAddress>
+  <d:ContactZipCode>630</d:ContactZipCode>
+  <d:ContactCity>雲林縣</d:ContactCity>
+  <d:ContactDistrict>斗南鎮</d:ContactDistrict>
+  <d:ContactAddress>天道路３號</d:ContactAddress>
+  <d:ResidenceNumber>56670000</d:ResidenceNumber>
+  <d:MobileNumber>15210835280</d:MobileNumber>
+  <d:AgreeProvideMobile/>
+  <d:AgreeSMSPending/>
+  <d:Email>danaus-yc.tsai@nanshan.com.tw</d:Email>
+  <d:Degree>1</d:Degree>
+  <d:SchoolName>國立交通大學</d:SchoolName>
+  <d:SchoolNameOther>藍翔技校</d:SchoolNameOther>
+  <d:SchoolType>國立大學</d:SchoolType>
+  <d:CollegeType>Z0001</d:CollegeType>
+  <d:Department>管理學院</d:Department>
+  <d:RefererType>Z0002</d:RefererType>
+  <d:ReferrerAGCode>填入值錯誤</d:ReferrerAGCode>
+  <d:ReferrerName>沈女士</d:ReferrerName>
+  <d:HasRelationshipEmployee>Z0002</d:HasRelationshipEmployee>
+  <d:IndigenousPeople/>
+  <d:InsuranceProduct/>
+  <d:InsuranceProductType/>
+  <d:DegreeFileName/>
+  <d:DegreeUrl/>
+  <d:DegreeUploadDate/>
+  <d:DegreeFileSize/>
+  <d:MugShotFileName/>
+  <d:MugShotUrl/>
+  <d:MugShotUploadDate/>
+  <d:MugShotFileSize/>
+  <d:IdentityCardFileName/>
+  <d:IdentityCardUrl/>
+  <d:IdentityCardUploadDate/>
+  <d:IdentityCardFileSize/>
+  <d:DisadvantagGroupFileName/>
+  <d:DisadvantagGroupUrl/>
+  <d:DisadvantagGroupUploadDate/>
+  <d:DisadvantagGroupFileSize/>
+  <d:ApplicantRole>ZBUP02</d:ApplicantRole>
+  <d:ProfessionalRegistration>T</d:ProfessionalRegistration>
+  <d:InvestmentRegistration/>
+  <d:ForeignCurrencyRegistration/>
+  <d:ProtalRegistration/>
+  <d:RegType/>
+  </m:properties>
+ </atom:content>
+</atom:entry>
+
+--changeset--
+--batch--

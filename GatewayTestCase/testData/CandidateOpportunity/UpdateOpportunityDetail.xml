@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entry xml:base="http://WNSDLSAP020.nanshan.com.tw:8000/sap/opu/odata/NSL/CANDIDATE_OPPORTUNITY_SRV/" xmlns="http://www.w3.org/2005/Atom" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+ <id>http://WNSDLSAP020.nanshan.com.tw:8000/sap/opu/odata/NSL/CANDIDATE_OPPORTUNITY_SRV/OpportunityDetailSet(guid'00505697-6D81-1EE5-A8C4-C6CDA35AA470')</id>
+ <title type="text">OpportunityDetailSet(guid'00505697-6D81-1EE5-A8C4-C6CDA35AA470')</title>
+ <updated>2015-12-14T07:23:02Z</updated>
+ <category term="CANDIDATE_OPPORTUNITY_SRV.OpportunityDetail" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+ <link href="OpportunityDetailSet(guid'00505697-6D81-1EE5-A8C4-C6CDA35AA470')" rel="self" title="OpportunityDetail"/>
+ <content type="application/xml">
+  <m:properties>
+   <d:EstimatedContractDate>2016-01-02T00:00:00</d:EstimatedContractDate>
+  </m:properties>
+ </content>
+</entry>
